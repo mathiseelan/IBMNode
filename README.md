@@ -24,8 +24,6 @@ The React web starter contains an opinionated set of components for modern web d
 
 React is a framework for creating user interfaces in modular components.
 
-
-
 <a name="enablement"></a>
 ### IBM Cloud Enablement
 
